@@ -33,7 +33,7 @@ myDatabase.prototype.getData = function(id) {
   return null;
 }
 
-/*
+/* hi
 myDatabase.prototype.putData = function(_data) {
   for (let i=0;i<this.data.length;i++) {
     if (this.data[i] && this.data[i].id == _data.id) {
